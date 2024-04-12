@@ -1,7 +1,7 @@
 {
   "name": "flavorsomeoo",
-  "version": "1.0.0",
-  "description": "npm install zgw-tools",
+  "version": "1.0.1",
+  "description": "Provides the function of formatting time",
   "main": "index.js",
   "scripts": {
     "test": "node test/index.js"
@@ -12,7 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "Provides the function of formatting time",
   "dependencies": {
     "iconv-lite": "^0.6.3"
   }
